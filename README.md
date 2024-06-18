@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on FiveM Projects and Discord Bots.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me: renanmsd94@gmail.com or discord Luton#0
-
+- 🤔 Curious fact: Rank 1000+ on chess.com
+  
 ##
 
 <div style="display: inline_block"><br>
